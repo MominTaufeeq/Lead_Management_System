@@ -1,0 +1,28 @@
+CREATE DATABASE IF NOT EXISTS lead_management;
+
+USE lead_management;
+
+CREATE TABLE IF NOT EXISTS leads (
+    id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+
+    name VARCHAR(100) NOT NULL,
+
+    company VARCHAR(150) NOT NULL,
+
+    mobile VARCHAR(20) NOT NULL,
+
+    email VARCHAR(150) NULL,
+
+    category VARCHAR(50) NOT NULL,
+
+    status VARCHAR(30) NOT NULL,
+
+    follow_up_date DATE NULL,
+
+    priority VARCHAR(20) NOT NULL DEFAULT 'Medium',
+
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        ON UPDATE CURRENT_TIMESTAMP
+);
