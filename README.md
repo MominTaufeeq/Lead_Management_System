@@ -419,7 +419,7 @@ This project was created as a **Full Stack Developer assignment** to demonstrate
 
 
 
-<img width="1917" height="1027" alt="Screenshot 2026-10-04 221258" src="https://github.com/user-attachments/assets/f89702a2-e810-4cc9-a831-0bd52f8be265" />
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/979df810-d726-42ae-804c-8f336ad155fb" />
 <img width="1917" height="923" alt="Screenshot 2026-10-04 221316" src="https://github.com/user-attachments/assets/bbcac8da-dc66-40db-a89b-5526aba63165" />
 <img width="1905" height="927" alt="Screenshot 2026-10-04 221337" src="https://github.com/user-attachments/assets/d00bfe74-5600-4e27-8c7a-8e556bfeca40" />
 <img width="1917" height="597" alt="Screenshot 2026-10-04 221421" src="https://github.com/user-attachments/assets/96952eb5-d815-4e63-85d9-f9308a52fefb" />
